@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 19.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/80bd1a94abc2ce948a9c35e2c5f742b3_MIT20_310JS15_Lecture19.pdf
+file: /media/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/80bd1a94abc2ce948a9c35e2c5f742b3_MIT20_310JS15_Lecture19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '20.310J Molecular, Cellular, and Tissue Biomechanics: Lecture 19'
 uid: 80bd1a94-abc2-ce94-8a9c-35e2c5f742b3
