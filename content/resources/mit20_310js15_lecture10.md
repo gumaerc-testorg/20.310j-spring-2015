@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 54b83455-a0e0-1617-033f-e3cac6d343dc
 resourcetype: Document
 title: '20.310J Molecular, Cellular, and Tissue Biomechanics: Lecture 10'
 uid: b3c04338-a195-98a7-995d-c5ff963fdace
