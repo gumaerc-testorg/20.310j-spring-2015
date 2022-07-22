@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by session and topic,
+  citations to course textbooks, and links to online readings where available.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 016c6954-5a7a-2c0e-7161-8063a7cd7ea1
 ---
@@ -384,7 +389,7 @@ Cell Mechanics: Structure of the Cell
 
 \[Lodish\] Sections 18.1–3, 19.1–3, and 19.6.
 
-Kamm. [Chapter 2.2 (PDF)]({{< baseurl >}}/resources/mit20_310js15_kamm2-2) "Mechanics of the Cytoskeleton." pp. 1–15.
+Kamm. {{% resource_link 2910b668-e593-06bc-f9ba-5046b51215e5 "Chapter 2.2 (PDF)" %}} "Mechanics of the Cytoskeleton." pp. 1–15.
 
 
 {{< tdclose >}}
@@ -446,7 +451,7 @@ The Cell Membrane
 {{< tdopen >}}
 
 
-Kamm. [Chapter 2.1 (PDF – 1.3MB)]({{< baseurl >}}/resources/mit20_310js15_kamm_2-1) "Cell Membrane Mechanics and Adhesion." pp. 1–13 and 25–30.
+Kamm. {{% resource_link d2411970-83a3-98d9-ebb7-f2d0446b7d87 "Chapter 2.1 (PDF – 1.3MB)" %}} "Cell Membrane Mechanics and Adhesion." pp. 1–13 and 25–30.
 
 
 {{< tdclose >}}
@@ -468,7 +473,7 @@ Cell Motility and Mechanotransduction
 
 \[Lodish\] Section 18.6.
 
-Kamm. [Chapter 2.3 (PDF – 1.4MB)]({{< baseurl >}}/resources/mit20_310js15_kamm_2-3) "Active Cell Processes." pp. 7–17 and 32–48.
+Kamm. {{% resource_link 1dfe30e1-f3b6-bb9d-6e31-c1705809ac61 "Chapter 2.3 (PDF – 1.4MB)" %}} "Active Cell Processes." pp. 7–17 and 32–48.
 
 Even–Ram, Sharona, and Kenneth M. Yamada. "[Cell Migration in 3D Matrix](http://dx.doi.org/10.1016/j.ceb.2005.08.015)." _Current Opinion in Cell Biology_ 17, no. 5 (2005): 524–32.
 
@@ -534,7 +539,7 @@ Frank, Eliot H., et al. "[Streaming Potentials: A Sensitive Index of Enzymatic D
 Muscle from the Molecular, Cellular and Tissue Perspectives
 {{< tdclose >}}
 {{< tdopen >}}
-Kamm. [Chapter 2.3 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit20_310js15_kamm_2-3) "Active Cell Processes." pp. 18–32.
+Kamm. {{% resource_link 1dfe30e1-f3b6-bb9d-6e31-c1705809ac61 "Chapter 2.3 (PDF - 1.4MB)" %}} "Active Cell Processes." pp. 18–32.
 {{< tdclose >}}
 
 {{< trclose >}}

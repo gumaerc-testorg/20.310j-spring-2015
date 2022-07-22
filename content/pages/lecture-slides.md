@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lecture
+  slides used for each session of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: 54b83455-a0e0-1617-033f-e3cac6d343dc
 ---
@@ -38,7 +43,7 @@ INSTRUCTORS
 {{< tdopen >}}
 
 
-[Length, Time, & Molecular-scale Forces in Biology (PDF - 1.6MB)]({{< baseurl >}}/resources/mit20_310js15_lecture1)
+{{% resource_link ba5cc087-fec4-b96c-c51d-99530550135d "Length, Time, & Molecular-scale Forces in Biology (PDF - 1.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -54,7 +59,7 @@ RK
 {{< tdopen >}}
 
 
-[Single Molecule Mechanics (PDF)]({{< baseurl >}}/resources/mit20_310js15_lecture2)
+{{% resource_link d10e1524-d4fd-1f64-624e-1ae8ffc026e3 "Single Molecule Mechanics (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -70,7 +75,7 @@ RK
 {{< tdopen >}}
 
 
-[Energy Landscapes and Transition States (PDF)]({{< baseurl >}}/resources/mit20_310js15_lecture3)
+{{% resource_link 93b09bb5-9c0e-4603-8740-177e90329afc "Energy Landscapes and Transition States (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -86,7 +91,7 @@ RK
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mechanochemistry at the Molecular Scale (PDF - 3.7MB)]({{< baseurl >}}/resources/mit20_310js15_lecture4)
+{{% resource_link a5a2fb21-fcc9-8f3d-9613-118a058a8c92 "Mechanochemistry at the Molecular Scale (PDF - 3.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -102,7 +107,7 @@ AG
 {{< tdopen >}}
 
 
-[Kramers' and Bell's Models of Reversible Binding (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_310js15_lecture5)
+{{% resource_link 99425b1f-69cb-afba-93d7-83a229ca3054 "Kramers' and Bell's Models of Reversible Binding (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -118,7 +123,7 @@ RK
 {{< tdopen >}}
 
 
-[Experimental Methods in Single Molecule Mechanics (PDF - 1.5MB)]({{< baseurl >}}/resources/mit20_310js15_lecture6)
+{{% resource_link b372e79a-9faf-e11d-0812-52bf4e875b9b "Experimental Methods in Single Molecule Mechanics (PDF - 1.5MB)" %}}
 
 
 {{< tdclose >}}
@@ -140,7 +145,7 @@ RK
 {{< tdopen >}}
 
 
-[Composition of Extracellular Matrix Constituents of Tissues; Relevance to Elastic (Time-independent) Behavior of Tissues (PDF - 2.8MB)]({{< baseurl >}}/resources/mit20_310js15_lecture7)
+{{% resource_link 408c9b6a-d8fe-de58-2488-b4f19fb0da35 "Composition of Extracellular Matrix Constituents of Tissues; Relevance to Elastic (Time-independent) Behavior of Tissues (PDF - 2.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -156,7 +161,7 @@ AG
 {{< tdopen >}}
 
 
-[Elastic (Time-independent) Behavior of Tissues (cont.) (PDF - 2.1MB)]({{< baseurl >}}/resources/mit20_310js15_lecture8)
+{{% resource_link 11976d0b-5333-79f8-c9df-0207b41d0234 "Elastic (Time-independent) Behavior of Tissues (cont.) (PDF - 2.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -172,7 +177,7 @@ AG
 {{< tdopen >}}
 
 
-[Elastic (Time-independent) Behavior of Tissues (cont.) (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_310js15_lecture9)
+{{% resource_link ad3a02ea-3ee3-fd92-127d-972fff5e31e4 "Elastic (Time-independent) Behavior of Tissues (cont.) (PDF - 2.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -194,7 +199,7 @@ AG
 {{< tdopen >}}
 
 
-[Finish Topics on Tissue Elasticity; Begin Viscoelasticity (PDF - 1.8MB)]({{< baseurl >}}/resources/mit20_310js15_lecture10)
+{{% resource_link b3c04338-a195-98a7-995d-c5ff963fdace "Finish Topics on Tissue Elasticity; Begin Viscoelasticity (PDF - 1.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -210,7 +215,7 @@ AG
 {{< tdopen >}}
 
 
-[Time-dependent Viscoelasticity of Tissues (PDF - 2.2MB)]({{< baseurl >}}/resources/mit20_310js15_lecture11)
+{{% resource_link faa970bd-711f-aa0e-0b8e-ccd6009d63e1 "Time-dependent Viscoelasticity of Tissues (PDF - 2.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -226,7 +231,7 @@ AG
 {{< tdopen >}}
 
 
-[Dynamic (Frequency-dependent) Viscoelasticity (PDF - 1.7MB)]({{< baseurl >}}/resources/mit20_310js15_lecture12)
+{{% resource_link ba094e6b-5c87-0fab-cfbc-5bc08124af46 "Dynamic (Frequency-dependent) Viscoelasticity (PDF - 1.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -242,7 +247,7 @@ AG
 {{< tdopen >}}
 
 
-[Poroelastic (Time-dependent) Behavior of Tissues (PDF - 2.3MB)]({{< baseurl >}}/resources/mit20_310js15_lecture13)
+{{% resource_link 39bc5f91-4620-05b4-9107-3d93cbd65359 "Poroelastic (Time-dependent) Behavior of Tissues (PDF - 2.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -258,7 +263,7 @@ AG
 {{< tdopen >}}
 
 
-[Poroelastic (Frequency-dependent) Behavior of Tissues (PDF - 1.8MB)]({{< baseurl >}}/resources/mit20_310js15_lecture14)
+{{% resource_link f17b6419-fb9b-9ba5-2cd4-39112f4eec3c "Poroelastic (Frequency-dependent) Behavior of Tissues (PDF - 1.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -274,7 +279,7 @@ AG
 {{< tdopen >}}
 
 
-[Dynamic Nanomechanical Behavior of Extracellular Matrix Macromolecules (PDF - 3.1MB)]({{< baseurl >}}/resources/mit20_310js15_lecture15)
+{{% resource_link aad9754a-98c8-4e23-fb4a-9db28bddb764 "Dynamic Nanomechanical Behavior of Extracellular Matrix Macromolecules (PDF - 3.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -290,7 +295,7 @@ AG
 {{< tdopen >}}
 
 
-[Time- and Frequency-dependent Behavior of Intracellular Networks (PDF - 2.7MB)]({{< baseurl >}}/resources/mit20_310js15_lecture16)
+{{% resource_link 53cb97d4-338f-4b2b-29b5-4d55df8bf80f "Time- and Frequency-dependent Behavior of Intracellular Networks (PDF - 2.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -312,7 +317,7 @@ AG
 {{< tdopen >}}
 
 
-[Cell Mechanics: Structure of the Cell (PDF - 1.8MB)]({{< baseurl >}}/resources/mit20_310js15_lecture17)
+{{% resource_link d444d8bb-04b3-96a5-ee0a-ae50318e2ea3 "Cell Mechanics: Structure of the Cell (PDF - 1.8MB)" %}}
 
 
 {{< tdclose >}}
@@ -328,7 +333,7 @@ RK
 {{< tdopen >}}
 
 
-[Visco / Poroelasticity, Large Amplitude Deformations (PDF)]({{< baseurl >}}/resources/mit20_310js15_lecture18)
+{{% resource_link 441f2811-4810-0a71-4a55-454fcefee651 "Visco / Poroelasticity, Large Amplitude Deformations (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -344,7 +349,7 @@ RK
 {{< tdopen >}}
 
 
-[Microstructural Models of the Cytoskeleton (PDF)]({{< baseurl >}}/resources/mit20_310js15_lecture19)
+{{% resource_link 80bd1a94-abc2-ce94-8a9c-35e2c5f742b3 "Microstructural Models of the Cytoskeleton (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -360,7 +365,7 @@ RK
 {{< tdopen >}}
 
 
-[The Cell Membrane (PDF)]({{< baseurl >}}/resources/mit20_310js15_lecture20)
+{{% resource_link f2f822d7-2a39-0e39-da92-6873f3dcbf4e "The Cell Membrane (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -376,7 +381,7 @@ RK
 {{< tdopen >}}
 
 
-[Cell Motility and Mechanotransduction (PDF - 1.3MB)]({{< baseurl >}}/resources/mit20_310js15_lecture21)
+{{% resource_link 32eca376-94b9-a875-95cd-6a32850b6b59 "Cell Motility and Mechanotransduction (PDF - 1.3MB)" %}}
 
 
 {{< tdclose >}}
@@ -398,7 +403,7 @@ RK
 {{< tdopen >}}
 
 
-[The Physics of Cancer (PDF - 3.4MB)]({{< baseurl >}}/resources/mit20_310js15_lecture22)
+{{% resource_link a1a4e39e-9608-b018-dc8b-98d462183b91 "The Physics of Cancer (PDF - 3.4MB)" %}}
 
 
 {{< tdclose >}}
