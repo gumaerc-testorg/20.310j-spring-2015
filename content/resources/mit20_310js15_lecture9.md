@@ -5,6 +5,7 @@ file: /courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '20.310J Molecular, Cellular, and Tissue Biomechanics: Lecture 9'
 uid: ad3a02ea-3ee3-fd92-127d-972fff5e31e4
 ---
 This is a resource file that contains information regarding lecture 9.
-
