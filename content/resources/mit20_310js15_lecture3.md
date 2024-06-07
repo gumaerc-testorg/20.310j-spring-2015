@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 3.
 file: /courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/93b09bb59c0e46038740177e90329afc_MIT20_310JS15_Lecture3.pdf
+file_size: 966480
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
