@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 6.
-file: /courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/b372e79a9fafe11d081252bf4e875b9b_MIT20_310JS15_Lecture6.pdf
+file: /ol-ocw-studio-app/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/b372e79a9fafe11d081252bf4e875b9b_MIT20_310JS15_Lecture6.pdf
 file_size: 1544377
 file_type: application/pdf
 learning_resource_types:
