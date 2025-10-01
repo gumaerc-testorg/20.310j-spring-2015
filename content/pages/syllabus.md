@@ -18,7 +18,7 @@ Recitation: 2 sessions / week, 1 hour / session.
 Prerequisites
 -------------
 
-[_2.370 Fundamentals of Nanoengineering_](http://student.mit.edu/catalog/m2b.html#2.370) or [_20.110J Thermodynamics of Biomolecular Systems_](/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005)
+{{% resource_link "37f9f00c-606e-4f61-beb1-a9a359815907" "_2.370 Fundamentals of Nanoengineering_" %}} or [_20.110J Thermodynamics of Biomolecular Systems_](/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005)
 
 [_18.03SC Differential Equations_](/courses/18-03sc-differential-equations-fall-2011) or [_3.016 Mathematics for Materials Scientists and Engineers_](/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005)
 
@@ -49,23 +49,23 @@ Textbooks
 
 There are no required textbooks. Most of the reading material will come from journal articles and notes provided by the instructors. Reading material presented in class came from these textbooks:
 
-*   Grodzinsky, A. _Fields, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with [Google Books](http://books.google.com/books?id=lCoWBAAAQBAJ&pg=PAfrontcover)\]
+*   Grodzinsky, A. _Fields, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with {{% resource_link "64938bcc-4b9f-4eaa-8578-590488640f4f" "Google Books" %}}\]
 *   Boal, D. _Mechanics of the Cell_. Cambridge University Press, 2001. ISBN: 9780815342120.
 *   Lodish, H., D. Baltimore, et al. _Molecular Cell Biology_. W. H. Freeman & Company, 2012. ISBN: 9781464109812.
-*   Dill, K., S. Bromberg. _Molecular Driving Forces: Statistical Thermodynamics in Chemistry & Biology_. Garland Science, 2003. \[Preview with [Google Books](http://books.google.com/books?id=hdeODhjp1bUC&pg=PAfrontcover)\]
+*   Dill, K., S. Bromberg. _Molecular Driving Forces: Statistical Thermodynamics in Chemistry & Biology_. Garland Science, 2003. \[Preview with {{% resource_link "88203fb4-ced3-44ed-8597-aa1611f8c8e5" "Google Books" %}}\]
 *   Howard, J. _Mechanics of Motor Proteins and the Cytoskeleton_. Sinauer Associates, 2001. ISBN: 9780878933334.
 *   Phillips, R., J. Kondev, et al. _Physical Biology of the Cell_. Garland Science, 2008. ISBN: 9780815341635.
-*   Jackson, M. B. _Molecular and Cellular Biophysics_. Cambridge University Press, 2006. ISBN: 9780521624701. \[Preview with [Google Books](http://books.google.com/books?id=SmJoSwnwSh0C&pg=PAfrontcover)\]
+*   Jackson, M. B. _Molecular and Cellular Biophysics_. Cambridge University Press, 2006. ISBN: 9780521624701. \[Preview with {{% resource_link "6b8e534e-006d-46f1-a42b-406b0c29a9be" "Google Books" %}}\]
 
 These textbooks provide background material that may be useful:
 
 *   Nelson, P. _Biophysics Chemistry_. Wiley-blackwell, 2008. ISBN: 9781405124362.
 *   Mofrad, M., and R. Kamm. _Cytoskeletal Mechanics: Models and Measurements in Cell Mechanics_. Cambridge University Press, 2011. ISBN: 9781107648289.
 *   Mofrad, M., and R. Kamm. _Cellular Mechanotransduction: Diverse Perspectives from Molecules to Tissues_. Cambridge University Press, 2009. ISBN: 9780521895231.
-*   Haynie, D. _Biological Thermodynamics_. Cambridge University Press, 2008. ISBN: 9780521711340. \[Preview with [Google Books](http://books.google.com/books?id=IkHBKYxLfgAC&pg=PAfrontcover)\]
+*   Haynie, D. _Biological Thermodynamics_. Cambridge University Press, 2008. ISBN: 9780521711340. \[Preview with {{% resource_link "3649d023-dc5b-4524-8196-fadd17602e94" "Google Books" %}}\]
 *   Wales, D. J. _Energy Landscapes. With Applications to Clusters, Biomolecules, and Glasses_. Cambridge University Press, 2004. ISBN: 9780521814157.
-*   Downarowicz, T. _Entropy in Dynamical Systems_. Cambridge University Press, 2011. ISBN: 9780521888851. \[Preview with [Google Books](http://books.google.com/books?id=avUGMc787v8C&pg=PAfrontcover)\]
-*   Ben-naim, A. _Entropy Demystified: The Second Law Reduced to Plain Common Sense_. World Scientific, 2008. ISBN: 9789812832252. \[Preview with [Google Books](http://books.google.com/books?id=mgDu7ok26Q4C&pg=PAfrontcover)\]
+*   Downarowicz, T. _Entropy in Dynamical Systems_. Cambridge University Press, 2011. ISBN: 9780521888851. \[Preview with {{% resource_link "b8417d54-31e0-4434-a5a5-e89178943127" "Google Books" %}}\]
+*   Ben-naim, A. _Entropy Demystified: The Second Law Reduced to Plain Common Sense_. World Scientific, 2008. ISBN: 9789812832252. \[Preview with {{% resource_link "045d0685-fb0c-4fc5-83f5-6e69989ae648" "Google Books" %}}\]
 
 Grading
 -------
