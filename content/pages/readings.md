@@ -11,13 +11,13 @@ uid: 016c6954-5a7a-2c0e-7161-8063a7cd7ea1
 
 \[Phillips\] = Phillips, R., J. Kondev, and J. Theriot. _Physical Biology of the Cell_. Garland Science, 2008. ISBN: 9780815341635.
 
-\[Dill & Bromberg\] = Dill, K., and S. Bromberg. _Molecular Driving Forces: Statistical Thermodynamics in Chemistry & Biology_. Garland Publishing, 2003. \[Preview with {{% resource_link "88203fb4-ced3-44ed-8597-aa1611f8c8e5" "Google Books" %}}\]
+\[Dill & Bromberg\] = Dill, K., and S. Bromberg. _Molecular Driving Forces: Statistical Thermodynamics in Chemistry & Biology_. Garland Publishing, 2003. \[Preview with [Google Books](http://books.google.com/books?id=hdeODhjp1bUC&pg=PAfrontcover)\]
 
 \[Howard\] = Howard, J. _Mechanics of Motor Proteins and the Cytoskeleton_. Sinauer Associates, 2001. ISBN: 9780878933334.
 
-\[Jackson\] = Jackson, M. B. _Molecular and Cellular Biophysics_. Cambridge University Press, 2006. ISBN: 9780521624701. \[Preview with {{% resource_link "6b8e534e-006d-46f1-a42b-406b0c29a9be" "Google Books" %}}\]
+\[Jackson\] = Jackson, M. B. _Molecular and Cellular Biophysics_. Cambridge University Press, 2006. ISBN: 9780521624701. \[Preview with [Google Books](http://books.google.com/books?id=SmJoSwnwSh0C&pg=PAfrontcover)\]
 
-\[Grodzinsky\] = Grodzinsky, A. _Fields, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with {{% resource_link "64938bcc-4b9f-4eaa-8578-590488640f4f" "Google Books" %}}\]
+\[Grodzinsky\] = Grodzinsky, A. _Fields, Forces and Flows in Biological Systems_. Garland Science, 2011. ISBN: 9780815342120. \[Preview with [Google Books](http://books.google.com/books?id=lCoWBAAAQBAJ&pg=PAfrontcover)\]
 
 \[Lodish\] = Lodish, H., D. Baltimore, et al. _Molecular Cell Biology_. W. H. Freeman and Company, 2012. ISBN: 9781464109812.
 
@@ -135,7 +135,7 @@ Kramer's and Bell's Models of Reversible Binding
 
 \[Howard\] Chapter 5.
 
-Yu, Hao, et al. "{{% resource_link "3f547168-73f8-4a4a-8c9e-8673c366ccf6" "Energy Landscape Analysis of Native Folding of the Prion Protein Yields the Diffusion Constant, Transition Path Time, and Rates" %}}." _Proceedings of the National Academy of Sciences_ _of the United States of America_ 109, no. 36 (2012): 14452–7.
+Yu, Hao, et al. "[Energy Landscape Analysis of Native Folding of the Prion Protein Yields the Diffusion Constant, Transition Path Time, and Rates](http://dx.doi.org/10.1073/pnas.1206190109)." _Proceedings of the National Academy of Sciences_ _of the United States of America_ 109, no. 36 (2012): 14452–7.
 
 
 {{< tdclose >}}
@@ -157,7 +157,7 @@ Experimental Methods in Single Molecule Mechanics
 
 \[Phillips\] Section 8.3.
 
-Vliet, Van, et al. "{{% resource_link "599a3422-a4c8-436d-98f7-1c57d6bee806" "The Biomechanics Toolbox: Experimental Approaches for Living Cells and Biomolecules" %}}." _Acta Materialia_ 51, no. 19 (2003): 5881–905.
+Vliet, Van, et al. "[The Biomechanics Toolbox: Experimental Approaches for Living Cells and Biomolecules](http://dx.doi.org/10.1016/j.actamat.2003.09.001)." _Acta Materialia_ 51, no. 19 (2003): 5881–905.
 
 
 {{< tdclose >}}
@@ -185,7 +185,7 @@ Composition of Extracellular Matrix Constituents of Tissues; Relevance to Elasti
 
 \[Grodzinsky\] Chapters 7, Section 7.3.
 
-Hynes, Richard O., and Alexandra Naba. "{{% resource_link "4d8e9362-b60f-4482-966a-ba088dae09b4" "Overview of the Matrisome—an Inventory of Extracellular Matrix Constituents and Functions" %}}." _Cold Spring Harbor Perspectives in Biology_ 4, no. 1 (2012): a004903.
+Hynes, Richard O., and Alexandra Naba. "[Overview of the Matrisome—an Inventory of Extracellular Matrix Constituents and Functions](http://dx.doi.org/10.1101/cshperspect.a004903)." _Cold Spring Harbor Perspectives in Biology_ 4, no. 1 (2012): a004903.
 
 
 {{< tdclose >}}
@@ -203,7 +203,7 @@ Elastic (Time-independent) Behavior of Tissues (cont.)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kadler, Karl E., Clair Baldock, et al. "{{% resource_link "5bf98486-9082-4aa6-b720-a17a37732296" "Collagens at a Glance" %}}." _Journal of Cell Science_ 120, no. 12 (2007): 1955–8.
+Kadler, Karl E., Clair Baldock, et al. "[Collagens at a Glance](http://dx.doi.org/10.1242/jcs.03453)." _Journal of Cell Science_ 120, no. 12 (2007): 1955–8.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +219,7 @@ Elastic (Time-independent) Behavior of Tissues (cont.)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Gordon, Marion K., and Rita A. Hahn. "{{% resource_link "5a0d140f-8c53-4bf7-b892-f9223c23dc72" "Collagens" %}}." _Cell and Tissue Research_ 339, no. 1 (2010): 247–57.
+Gordon, Marion K., and Rita A. Hahn. "[Collagens](http://dx.doi.org/10.1007/s00441-009-0844-4)." _Cell and Tissue Research_ 339, no. 1 (2010): 247–57.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +241,7 @@ Finish Topics on Tissue Elasticity; Begin Viscoelasticity
 
 {{< tdclose >}}
 {{< tdopen >}}
-Schwartz, Nancy B. "{{% resource_link "2f665e77-da12-43e1-b932-a9f39d2a8d38" "Proteoglycans" %}}." _eLS_ (2009).
+Schwartz, Nancy B. "[Proteoglycans](http://dx.doi.org/10.1002/9780470015902.a0000623.pub2)." _eLS_ (2009).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +261,7 @@ Time-dependent Viscoelasticity of Tissues
 
 \[Grodzinsky\] Chapter 7, Section 7.4.
 
-Gautieri, Alfonso, et al. "{{% resource_link "c8e8d990-9613-4a49-81ec-3fc7052bd965" "Viscoelastic Properties of Model Segments of Collagen Molecules" %}}." _Matrix Biology_ 31, no. 2 (2012): 141–9.
+Gautieri, Alfonso, et al. "[Viscoelastic Properties of Model Segments of Collagen Molecules](http://dx.doi.org/10.1016/j.matbio.2011.11.005)." _Matrix Biology_ 31, no. 2 (2012): 141–9.
 
 
 {{< tdclose >}}
@@ -279,7 +279,7 @@ Dynamic (Frequency–dependent) Viscoelasticity
 
 {{< tdclose >}}
 {{< tdopen >}}
-Darling, E. M., et al. "{{% resource_link "05903191-80b5-4f16-9252-e19c3d51ab29" "Viscoelastic Properties of Zonal Articular Chondrocytes Measured by Atomic Force Microscopy" %}}." _Osteoarthritis and Cartilage_ 14, no. 6 (2006): 571–9.
+Darling, E. M., et al. "[Viscoelastic Properties of Zonal Articular Chondrocytes Measured by Atomic Force Microscopy](http://dx.doi.org/10.1016/j.joca.2005.12.003)." _Osteoarthritis and Cartilage_ 14, no. 6 (2006): 571–9.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +299,7 @@ Poroelastic (Time–dependent) Behavior of Tissues
 
 \[Grodzinsky\] Chapter 7, Section 7.5.
 
-Rosenbluth, Michael J., et al. "{{% resource_link "5edb2cc8-fb91-4368-922f-05c55f1c505c" "Slow Stress Propagation in Adherent Cells" %}}." _Biophysical Journal_ 95, no. 12 (2008): 6052–9.
+Rosenbluth, Michael J., et al. "[Slow Stress Propagation in Adherent Cells](http://dx.doi.org/10.1529/biophysj.108.139139)." _Biophysical Journal_ 95, no. 12 (2008): 6052–9.
 
 
 {{< tdclose >}}
@@ -321,9 +321,9 @@ Poroelastic (Frequency–dependent) Behavior of Tissues
 
 \[Grodzinsky\] Chapter 7, Section 7.5.
 
-Nia, Hadi Tavakoli, et al. "{{% resource_link "9fb513c0-dd56-4560-9d94-050f08eeb52e" "Poroelasticity of Cartilage at the Nanoscale" %}}." _Biophysical Journal_ 101, no. 9 (2011): 2304–13.
+Nia, Hadi Tavakoli, et al. "[Poroelasticity of Cartilage at the Nanoscale](http://dx.doi.org/10.1016/j.bpj.2011.09.011)." _Biophysical Journal_ 101, no. 9 (2011): 2304–13.
 
-Nia, Hadi Tavakoli, et al. "{{% resource_link "be703ffb-1225-45a5-a5b4-2c6332acf277" "High-bandwidth AFM-based Rheology Reveals that Cartilage is most Sensitive to High Loading Rates at Early Stages of Impairment" %}}." _Biophysical Journal_ 104, no. 7 (2013): 1529–37.
+Nia, Hadi Tavakoli, et al. "[High-bandwidth AFM-based Rheology Reveals that Cartilage is most Sensitive to High Loading Rates at Early Stages of Impairment](http://dx.doi.org/10.1016/j.bpj.2013.02.048)." _Biophysical Journal_ 104, no. 7 (2013): 1529–37.
 
 
 {{< tdclose >}}
@@ -345,7 +345,7 @@ Dynamic Nanomechanical Behavior of Extracellular Matrix Macromolecules
 
 \[Grodzinsky\] Chapter 7, Section 7.6.
 
-Nia, Hadi Tavakoli, et al. "{{% resource_link "e355d241-7575-4dfc-803d-08d2b659c9d1" "Aggrecan Nanoscale Solid–Fluid Interactions Are a Primary Determinant of Cartilage Dynamic Mechanical Properties" %}}." _ACS Nano_ 9, no. 3 (2015): 2614–25.
+Nia, Hadi Tavakoli, et al. "[Aggrecan Nanoscale Solid–Fluid Interactions Are a Primary Determinant of Cartilage Dynamic Mechanical Properties](http://dx.doi.org/10.1021/nn5062707)." _ACS Nano_ 9, no. 3 (2015): 2614–25.
 
 
 {{< tdclose >}}
@@ -363,7 +363,7 @@ Time-and Frequency-dependent Behavior of Intracellular Networks
 
 {{< tdclose >}}
 {{< tdopen >}}
-Moeendarbary, Emad, et al. "{{% resource_link "96ab1b43-70ad-43ba-9a13-2d2844efef27" "The Cytoplasm of Living Cells Behaves as a Poroelastic Material" %}}." _Nature Materials_ 12, no. 3 (2013): 253–61.
+Moeendarbary, Emad, et al. "[The Cytoplasm of Living Cells Behaves as a Poroelastic Material](http://dx.doi.org/10.1038/nmat3517)." _Nature Materials_ 12, no. 3 (2013): 253–61.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -475,7 +475,7 @@ Cell Motility and Mechanotransduction
 
 Kamm. {{% resource_link 1dfe30e1-f3b6-bb9d-6e31-c1705809ac61 "Chapter 2.3 (PDF – 1.4MB)" %}} "Active Cell Processes." pp. 7–17 and 32–48.
 
-Even–Ram, Sharona, and Kenneth M. Yamada. "{{% resource_link "6c7d0a64-aaf3-4b74-a436-8e5f5580ca26" "Cell Migration in 3D Matrix" %}}." _Current Opinion in Cell Biology_ 17, no. 5 (2005): 524–32.
+Even–Ram, Sharona, and Kenneth M. Yamada. "[Cell Migration in 3D Matrix](http://dx.doi.org/10.1016/j.ceb.2005.08.015)." _Current Opinion in Cell Biology_ 17, no. 5 (2005): 524–32.
 
 
 {{< tdclose >}}
@@ -501,7 +501,7 @@ The Physics of Cancer
 {{< tdopen >}}
 
 
-Wirtz, Denis, et al. "{{% resource_link "a9b5fd0b-a961-4f39-9037-6d3860fe639d" "The Physics of Cancer: The Role of Physical Interactions and Mechanical Forces in Metastasis" %}}." _Nature Reviews Cancer_ 11, no. 7 (2011): 512–22.
+Wirtz, Denis, et al. "[The Physics of Cancer: The Role of Physical Interactions and Mechanical Forces in Metastasis](http://dx.doi.org/10.1038/nrc3080)." _Nature Reviews Cancer_ 11, no. 7 (2011): 512–22.
 
 
 {{< tdclose >}}
@@ -523,9 +523,9 @@ Molecular Electromechanics: Electromechanical and Physicochemical Properties of 
 
 \[Grodzinsky\] Chapter 7, Section 7.6.
 
-Wieland, Heike A., et al. "{{% resource_link "e5e419c8-2c37-4aa5-a9fc-b6db829c80e5" "Osteoarthritis—an Untreatable Disease?" %}}" _Nature Reviews Drug Discovery_ 4, no. 4 (2005): 331–44.
+Wieland, Heike A., et al. "[Osteoarthritis—an Untreatable Disease?](http://dx.doi.org/10.1038/nrd1693)" _Nature Reviews Drug Discovery_ 4, no. 4 (2005): 331–44.
 
-Frank, Eliot H., et al. "{{% resource_link "6ada765a-5339-4508-9979-e8604749c63d" "Streaming Potentials: A Sensitive Index of Enzymatic Degradation in Articular Cartilage" %}}." _Journal of Orthopaedic Research_ 5, no. 4 (1987): 497–508.
+Frank, Eliot H., et al. "[Streaming Potentials: A Sensitive Index of Enzymatic Degradation in Articular Cartilage](http://dx.doi.org/10.1002/jor.1100050405)." _Journal of Orthopaedic Research_ 5, no. 4 (1987): 497–508.
 
 
 {{< tdclose >}}
